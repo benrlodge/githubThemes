@@ -1,0 +1,40 @@
+.file .blob-wrapper {
+  background: #222 !important;
+  color: #fff !important;
+}
+.file .blob-num,
+.file .pl-s1 .pl-s2,
+.file .pl-smi,
+.file .pl-smp,
+.file .pl-stj,
+.file .pl-vo,
+.file .pl-vpf,
+.file .blob-code,
+.file .pl-mo,
+.file .pl-v {
+  color: #fff !important;
+}
+.file .pl-e,
+.file .pl-en {
+  color: #e57232 !important;
+}
+.file .pl-k,
+.file .pl-s,
+.file .pl-st {
+  color: yellow !important;
+}
+.file .pl-pds,
+.file .pl-s1,
+.file .pl-s1 .pl-pse .pl-s2,
+.file .pl-sr,
+.file .pl-sr .pl-cce,
+.file .pl-sr .pl-sra,
+.file .pl-sr .pl-sre,
+.file .pl-src {
+  color: #32CD32 !important;
+}
+.file .pl-s3 {
+  color: #56A0D3 !important;
+}
+
+/*# sourceMappingURL=darktheme.css.map */

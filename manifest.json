@@ -2,16 +2,16 @@
   "manifest_version": 2,
   "name": "Github dark theme",
   "description": "This extension provides a simple dark theme for github.com",
-  "version": "1.0",
+  "version": "2.0",
 
   "content_scripts": [
   {
     "matches": ["https://github.com/*/*", "https://www.github.com/*/*"],
-    "css": ["darktheme.css"]
+    "css": ["css/darktheme.css"]
   }],
 
   "browser_action": {
-    "default_icon": "icon.png",
+    "default_icon": "images/icon.png",
     "default_popup": "popup.html"
   },
   "permissions": [
